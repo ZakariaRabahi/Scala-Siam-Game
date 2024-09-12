@@ -18,4 +18,4 @@ The **Siam Project** is a strategic board game implemented in **Scala**. The gam
 - Gained experience in designing and implementing a turn-based game from scratch.
 - Improved problem-solving skills by tackling strategic elements and game logic.
 
-You can view the project on GitHub: [Siam Project](https://github.com/yourusername/SiamProject)
+You can view the project on GitHub: [Siam Project](https://github.com/ZakariaRabahi/SiamProject)
